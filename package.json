@@ -1,0 +1,19 @@
+{
+  "name": "looman.se",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LooMan/looman.se.git"
+  },
+  "author": "Fredrik Larsson <larsson.fredrik31@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LooMan/looman.se/issues"
+  },
+  "homepage": "looman.se"
+}
